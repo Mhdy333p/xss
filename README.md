@@ -1,3 +1,3 @@
 xss training
 
-`https://prompt.ml/7`
+`https://prompt.ml/`

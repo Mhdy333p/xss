@@ -1,5 +1,6 @@
 <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
   <a href="https://monster.f3p.com" onload="">
     <text x="50" y="50" text-anchor="middle">HTML Injection HackerOne POC</text>
+    <text x="50" y="50" text-anchor="middle">TEST</text>
   </a>
 </svg>
